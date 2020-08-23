@@ -1,5 +1,11 @@
 # React Context with Router
 
+## Run Demo App
+```
+$ npm install
+$ npm start
+```
+
 ## `react-router-dom`
 
 * It is important to note that unless `<Link />` is used to redirect
